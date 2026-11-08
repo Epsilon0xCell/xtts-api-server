@@ -1,4 +1,6 @@
-![Banner](banner.png)
+![Banner: a transmitter hall of tall steel cabinets in a row, banks of amber meter dials lit along their panels, black cables running overhead and one red ON AIR sign lit above the cabinet sending a voice out into the night](banner.png)
+
+<p align="center"><img src="logo.png" alt="xtts-api-server logo: a shortwave transmitter cabinet photographed straight on, two amber meters lit in its steel grey front panel and one small red lamp glowing above the dials" width="200"></p>
 
 # A simple FastAPI Server to run XTTSv2
 
